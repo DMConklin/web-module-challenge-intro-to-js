@@ -38,7 +38,14 @@ Do the following:
    HINT: no function required
 */
 
+const firstThing = true
+const secondThing = false
 
+if (firstThing === secondThing) {
+  console.log(firstThing)
+} else {
+  console.log(firstThing)
+}
 
 
 
