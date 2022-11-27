@@ -38,14 +38,13 @@ Do the following:
    HINT: no function required
 */
 
-const firstThing = true
-const secondThing = false
+let firstThing = false
+let secondThing = false
 
 if (firstThing === secondThing) {
+  firstThing = true
   console.log(firstThing)
-} else {
-  console.log(firstThing)
-}
+} 
 
 
 
