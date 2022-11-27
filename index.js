@@ -90,11 +90,12 @@ Do the following:
  3. Return the newly calculated age
 */
 
-function dogYears(/*add your code here*/){
+function dogYears(/*add your code here*/years){
   /*add your code here*/
+  return years * 7
 }
 
-
+dogYears(3)
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
